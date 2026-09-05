@@ -6,15 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/jitdhara-coder/LEETCODE/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/jitdhara-coder/LEETCODE/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |

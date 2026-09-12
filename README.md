@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/jitdhara-coder/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/jitdhara-coder/LEETCODE/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/jitdhara-coder/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/jitdhara-coder/LEETCODE/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jitdhara-coder/LEETCODE/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/jitdhara-coder/LEETCODE/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/jitdhara-coder/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/jitdhara-coder/LEETCODE/tree/master/0704-binary-search) |
 ## Divide and Conquer

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/jitdhara-coder/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/jitdhara-coder/LEETCODE/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/jitdhara-coder/LEETCODE/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

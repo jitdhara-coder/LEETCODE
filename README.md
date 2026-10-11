@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jitdhara-coder/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/jitdhara-coder/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jitdhara-coder/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1768-merge-strings-alternately](https://github.com/jitdhara-coder/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jitdhara-coder/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -293,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/jitdhara-coder/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/1929-concatenation-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jitdhara-coder/LEETCODE/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jitdhara-coder/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

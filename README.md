@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jitdhara-coder/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jitdhara-coder/LEETCODE/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/jitdhara-coder/LEETCODE/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/jitdhara-coder/LEETCODE/tree/master/0493-reverse-pairs) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jitdhara-coder/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jitdhara-coder/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/jitdhara-coder/LEETCODE/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/jitdhara-coder/LEETCODE/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/jitdhara-coder/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jitdhara-coder/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jitdhara-coder/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -317,4 +319,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jitdhara-coder/LEETCODE/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jitdhara-coder/LEETCODE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jitdhara-coder/LEETCODE/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jitdhara-coder/LEETCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jitdhara-coder/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jitdhara-coder/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

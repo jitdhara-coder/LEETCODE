@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/jitdhara-coder/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/jitdhara-coder/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/jitdhara-coder/LEETCODE/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jitdhara-coder/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jitdhara-coder/LEETCODE/tree/master/0078-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jitdhara-coder/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jitdhara-coder/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/jitdhara-coder/LEETCODE/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/jitdhara-coder/LEETCODE/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/jitdhara-coder/LEETCODE/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jitdhara-coder/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/jitdhara-coder/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/jitdhara-coder/LEETCODE/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/jitdhara-coder/LEETCODE/tree/master/0733-flood-fill) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jitdhara-coder/LEETCODE/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/jitdhara-coder/LEETCODE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/jitdhara-coder/LEETCODE/tree/master/0258-add-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jitdhara-coder/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/jitdhara-coder/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/jitdhara-coder/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jitdhara-coder/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |

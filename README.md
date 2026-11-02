@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jitdhara-coder/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/jitdhara-coder/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/jitdhara-coder/LEETCODE/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/jitdhara-coder/LEETCODE/tree/master/0733-flood-fill) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/jitdhara-coder/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/jitdhara-coder/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Quicksort
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/jitdhara-coder/LEETCODE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/jitdhara-coder/LEETCODE/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jitdhara-coder/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/jitdhara-coder/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/jitdhara-coder/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jitdhara-coder/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/jitdhara-coder/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jitdhara-coder/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jitdhara-coder/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2747-count-zero-request-servers](https://github.com/jitdhara-coder/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jitdhara-coder/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jitdhara-coder/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jitdhara-coder/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/jitdhara-coder/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [2747-count-zero-request-servers](https://github.com/jitdhara-coder/LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Quicksort
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jitdhara-coder/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2747-count-zero-request-servers](https://github.com/jitdhara-coder/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jitdhara-coder/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Lifting
 |  |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/jitdhara-coder/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jitdhara-coder/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |

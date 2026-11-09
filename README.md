@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jitdhara-coder/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/jitdhara-coder/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0542-01-matrix](https://github.com/jitdhara-coder/LEETCODE/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/jitdhara-coder/LEETCODE/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/jitdhara-coder/LEETCODE/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/jitdhara-coder/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jitdhara-coder/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/jitdhara-coder/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/jitdhara-coder/LEETCODE/tree/master/0542-01-matrix) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jitdhara-coder/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jitdhara-coder/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/jitdhara-coder/LEETCODE/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/jitdhara-coder/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jitdhara-coder/LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jitdhara-coder/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/jitdhara-coder/LEETCODE/tree/master/1267-count-servers-that-communicate) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jitdhara-coder/LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jitdhara-coder/LEETCODE/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/jitdhara-coder/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jitdhara-coder/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jitdhara-coder/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/jitdhara-coder/LEETCODE/tree/master/0733-flood-fill) |

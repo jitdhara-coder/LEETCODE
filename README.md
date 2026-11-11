@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/jitdhara-coder/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/jitdhara-coder/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jitdhara-coder/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/jitdhara-coder/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/jitdhara-coder/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jitdhara-coder/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jitdhara-coder/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/jitdhara-coder/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jitdhara-coder/LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jitdhara-coder/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/jitdhara-coder/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/jitdhara-coder/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/jitdhara-coder/LEETCODE/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/jitdhara-coder/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/jitdhara-coder/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/jitdhara-coder/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/jitdhara-coder/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/jitdhara-coder/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 ## DP on Trees
 |  |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/jitdhara-coder/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jitdhara-coder/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jitdhara-coder/LEETCODE/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/jitdhara-coder/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/jitdhara-coder/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |

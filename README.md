@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jitdhara-coder/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2747-count-zero-request-servers](https://github.com/jitdhara-coder/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jitdhara-coder/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jitdhara-coder/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jitdhara-coder/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jitdhara-coder/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/jitdhara-coder/LEETCODE/tree/master/0493-reverse-pairs) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jitdhara-coder/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/jitdhara-coder/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jitdhara-coder/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/jitdhara-coder/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jitdhara-coder/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/jitdhara-coder/LEETCODE/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jitdhara-coder/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jitdhara-coder/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -455,4 +459,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/jitdhara-coder/LEETCODE/tree/master/1267-count-servers-that-communicate) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jitdhara-coder/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jitdhara-coder/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jitdhara-coder/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->

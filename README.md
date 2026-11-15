@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jitdhara-coder/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jitdhara-coder/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jitdhara-coder/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/jitdhara-coder/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/jitdhara-coder/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jitdhara-coder/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/jitdhara-coder/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/jitdhara-coder/LEETCODE/tree/master/0542-01-matrix) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jitdhara-coder/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jitdhara-coder/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/jitdhara-coder/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jitdhara-coder/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jitdhara-coder/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/jitdhara-coder/LEETCODE/tree/master/2235-add-two-integers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jitdhara-coder/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jitdhara-coder/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |

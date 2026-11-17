@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jitdhara-coder/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jitdhara-coder/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/jitdhara-coder/LEETCODE/tree/master/1768-merge-strings-alternately) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jitdhara-coder/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/jitdhara-coder/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/jitdhara-coder/LEETCODE/tree/master/0542-01-matrix) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jitdhara-coder/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jitdhara-coder/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1768-merge-strings-alternately](https://github.com/jitdhara-coder/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jitdhara-coder/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jitdhara-coder/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Design
 |  |
 | ------- |

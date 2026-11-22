@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1768-merge-strings-alternately](https://github.com/jitdhara-coder/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jitdhara-coder/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/jitdhara-coder/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jitdhara-coder/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jitdhara-coder/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/jitdhara-coder/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |

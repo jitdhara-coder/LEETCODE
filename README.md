@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/jitdhara-coder/LEETCODE/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/jitdhara-coder/LEETCODE/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/jitdhara-coder/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jitdhara-coder/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/jitdhara-coder/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jitdhara-coder/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/jitdhara-coder/LEETCODE/tree/master/1020-number-of-enclaves) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jitdhara-coder/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jitdhara-coder/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jitdhara-coder/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jitdhara-coder/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jitdhara-coder/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jitdhara-coder/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2747-count-zero-request-servers](https://github.com/jitdhara-coder/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/jitdhara-coder/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |

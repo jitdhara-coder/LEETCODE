@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jitdhara-coder/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jitdhara-coder/LEETCODE/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jitdhara-coder/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jitdhara-coder/LEETCODE/tree/master/0200-number-of-islands) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/jitdhara-coder/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jitdhara-coder/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jitdhara-coder/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jitdhara-coder/LEETCODE/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jitdhara-coder/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/jitdhara-coder/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/jitdhara-coder/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0126-word-ladder-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jitdhara-coder/LEETCODE/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jitdhara-coder/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jitdhara-coder/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/jitdhara-coder/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/jitdhara-coder/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/jitdhara-coder/LEETCODE/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
@@ -564,5 +568,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/jitdhara-coder/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jitdhara-coder/LEETCODE/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
